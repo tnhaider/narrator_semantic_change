@@ -15,6 +15,7 @@ _"The Ongoing Birth of the Narrator: Empirical Evidence for the Emergence of the
   - fictive-nonfictive (folds 1-10 for coarse-grained model fictive-non-fictive)
   - predicted (predicted data test/large scale)
   - zeit (zeit text snippets for large scale)
+  - dvjs (dvjs text snippets for large scale)
 - scripts
   - text classification (doc_classification*)
   - inference (erzaehler_inference*)
