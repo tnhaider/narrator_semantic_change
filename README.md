@@ -10,7 +10,7 @@ Benjamin Gittel, Thomas Haider. (2025). "The Ongoing Birth of the Narrator: Empi
   - contains the guidelines used during annotation
 - data
   - all-gold (all labeled instances and gold)
-  - vanilla (folds 1-10 for vanilla model)
+  - vanilla (folds 1-10 for vanilla model, incl. test prediction)
   - downsampling (folds 1-10 with downsampling of B)
   - fictive-nonfictive (folds 1-10 for coarse-grained model fictive-non-fictive)
   - zeit (zeit text snippets for large scale, incl. prediction)
