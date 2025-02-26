@@ -2,7 +2,8 @@
 # Overview
 This repository contains data and code to support the paper:
 
-Benjamin Gittel, Thomas Haider. (2025)._"The Ongoing Birth of the Narrator: Empirical Evidence for the Emergence of the Author-Narrator Distinction in Literary Criticism". Journal of Digital Scholarship in the Humanities.
+Benjamin Gittel, Thomas Haider. (2025). "The Ongoing Birth of the Narrator: Empirical Evidence for the Emergence of the Author-Narrator Distinction in Literary Criticism". Journal of Digital Scholarship in the Humanities.
+
 ## Folders
 - figures
 - guidelines
@@ -12,9 +13,8 @@ Benjamin Gittel, Thomas Haider. (2025)._"The Ongoing Birth of the Narrator: Empi
   - vanilla (folds 1-10 for vanilla model)
   - downsampling (folds 1-10 with downsampling of B)
   - fictive-nonfictive (folds 1-10 for coarse-grained model fictive-non-fictive)
-  - predicted (predicted data test/large scale)
-  - zeit (zeit text snippets for large scale)
-  - dvjs (dvjs text snippets for large scale)
+  - zeit (zeit text snippets for large scale, incl. prediction)
+  - dvjs (dvjs text snippets for large scale, incl. prediction)
 - scripts
   - text classification (doc_classification*)
   - inference (erzaehler_inference*)
