@@ -1,4 +1,5 @@
-## Overview
+#
+i Overview
 This repository contains data and code to support the paper:
 
 _"The Ongoing Birth of the Narrator: Empirical Evidence for the Emergence of the Author-Narrator Distinction in Literary Criticism"_
@@ -8,13 +9,12 @@ _"The Ongoing Birth of the Narrator: Empirical Evidence for the Emergence of the
 - guidelines
   - contains the guidelines used during annotation
 - data
-  - all (all labeled instances and gold)
+  - all-gold (all labeled instances and gold)
   - vanilla (folds 1-10 for vanilla model)
-  - down (folds 1-10 with downsampling of B)
-  - fic (folds 1-10 for coarse-grained model fictive-non-fictive)
+  - downsampling (folds 1-10 with downsampling of B)
+  - fictive-nonfictive (folds 1-10 for coarse-grained model fictive-non-fictive)
   - predicted (predicted data test/large scale)
   - zeit (zeit text snippets for large scale)
-  - dvjs (dvjs text snippets for large scale)
 - scripts
   - text classification (doc_classification*)
   - inference (erzaehler_inference*)
